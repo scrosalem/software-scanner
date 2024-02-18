@@ -1,0 +1,35 @@
+{
+
+    "ESTABLISHMENT-1": {
+
+            "DEPARTAMENT-1": {
+                "COMPUTER-1": "192.168.0.12",
+                "COMPUTER-2": "192.168.0.13",
+                "COMPUTER-3": "192.168.0.14"
+            },
+
+            "DEPARTAMENT-2": {
+                "COMPUTER-1": "192.168.0.15",
+                "COMPUTER-2": "192.168.0.16",
+                "COMPUTER-3": "192.168.0.17"
+            }
+
+    },
+
+    "ESTABLISHMENT-2": {
+
+            "DEPARTAMENT-1": {
+                "COMPUTER-1": "192.168.0.18",
+                "COMPUTER-2": "192.168.0.19",
+                "COMPUTER-3": "192.168.0.20"
+            },
+
+            "DEPARTAMENT-2": {
+                "COMPUTER-1": "192.168.0.21",
+                "COMPUTER-2": "192.168.0.22",
+                "COMPUTER-3": "192.168.0.23"
+            }
+
+    }
+
+}
